@@ -1,0 +1,4 @@
+Studi,Data_dan_Metode,Validasi,Temuan_Relevan,Keterbatasan_atau_Bukti
+Mende & Koschke (2010),NASA MDP (KC1 CM1) & Naive Bayes / Random Forest,Effort-aware cross-validation,Pemeringkatan risiko berbasis ukuran kode lebih efektif dari model klasifikasi murni,Sensitif terhadap variasi definisi metrik LOC
+Huang et al. (2017),NASA MDP & PROMISE datasets menggunakan Supervised Learner,Recall@20% LOC evaluation,Class imbalance mempengaruhi ketepatan probabilitas prediksi risiko,Memerlukan kalibrasi probabilitas
+Shepperd et al. (2014),Audit Data NASA MDP,Pemeriksaan duplikasi dan inkonsistensi atribut,Banyak dataset NASA mentah mengandung sampel duplikat yang menyebabkan optimisme berlebih,Menekankan pentingnya protokol data cleaning
