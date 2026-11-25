@@ -1,0 +1,16 @@
+# Virtual Environment & Python cache
+.venv/
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Raw and processed datasets (reproducibility: unduh dari Kaggle, jangan commit file besar)
+data/*.csv
+data/*.arff
+data/*.zip
+
+# Model checkpoints / artifacts
+*.pkl
+*.joblib
